@@ -1,0 +1,68 @@
+@import url("reset.css");
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+body {
+    font-family: 'Roboto Mono', "monospace", "Georgia", "Times", "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: black;
+    background: url("../images/positive.png");
+    background-color: #151515;
+}
+
+
+
+.container {
+    background-color: #ffffff;
+    border: 2px dashed #ffc400;;
+    border-radius: 25px;
+    margin-top: 140px;
+    margin-bottom: 140px;
+    padding: 20px;
+    
+}
+
+.sprouts {
+    width: 150px;
+    height: 150px;
+}
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+    color: purple;
+    text-shadow: 2px 2px #ffc400;
+    text-align: center;
+    margin-bottom:0px;
+    padding-bottom:0px;
+}
+
+
+h2 {
+    font-family:'Meddon', cursive;
+    color: black;
+    text-align: center;
+    position: relative;
+    bottom:65px;
+    margin-top:0;
+    padding-top:0;
+    
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+    word-spacing:10px;
+}
+
