@@ -1,8 +1,8 @@
 # FOOD WORD GUESS
 
-Link: https://rhaniehalim.github.io//Psychic-Game/
+Link: https://rhaniehalim.github.io/Psychic-Game/
 
-![PREVIEW](https://github.com/rhaniehalim//WORD-GUESS/blob/master/preview.png)
+![PREVIEW](https://github.com/rhaniehalim/Psychic-Game/blob/master/preview.png)
 
 Here's how the app works:
 1. Press any key to get started.
